@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/hello-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/datasourcedemo/pom.xml" />
+        <option value="$PROJECT_DIR$/pure-spring-datasource-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Multi-datasource-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Druid-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/simple-jdbc-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/declarative-transaction-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/ErrorCode-Demo/pom.xml" />
+        <option value="$PROJECT_DIR$/programmatic-transaction-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-complex-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-pagehelper-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-generator-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-bucks/pom.xml" />
+        <option value="$PROJECT_DIR$/mongo-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/mongo-repository-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-repository-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jedis-demo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
